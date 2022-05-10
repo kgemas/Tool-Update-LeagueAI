@@ -11,12 +11,12 @@ Cách sử dụng
 D:.
 └───Đây là thư mục đã giải nén của game LeagueAI
         config.json
+        LeagueAI.exe            <====================== Đây chính là bot.
         InputManager.dll
         Leaf.xNet.dll
         Newtonsoft.Json.dll
-        LeagueAI.exe            <====================== Đây chính là bot.
-        UpdateBotAI.exe         <====================== Tệp tin mới trong gói "UpdateBotAI.zip"
-        HtmlAgilityPack.dll     <====================== Tệp tin mới trong gói "UpdateBotAI.zip"
+        UpdateBotAI.exe         <====================== Đây là tệp tin mới trong gói "UpdateBotAI.zip"
+        HtmlAgilityPack.dll     <====================== Đây cũng là tệp tin mới trong gói "UpdateBotAI.zip"
 ```
 
 
